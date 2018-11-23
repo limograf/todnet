@@ -1,9 +1,9 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/home-jumbotron.png
 contact_entries:
   - heading: Talk to Us
-    text: "Questions, comments, help"
+    text: 'Questions, comments, help'
 ---
 
 We're just getting started and there's lots to do. If you can help, come and talk to us:
